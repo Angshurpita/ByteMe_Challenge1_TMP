@@ -20,6 +20,6 @@ Our analysis of the OmniMart dataset led to the following key insights:
 For a more detailed breakdown, please refer to our full analysis in the Jupyter Notebook and the accompanying presentation.
 
 README.md        (This file)  
-retail_data.csv  (The raw dataset used for the challenge)  
+retail_data.zip  (The raw dataset used for the challenge)  
 Retail.ipynb     (The main Jupyter Notebook with all our code and analysis)  
 OmniMartFinal.pptx (A summary of our findings and recommendations)  
