@@ -9,8 +9,13 @@ Arka Koley – Report Writer (Business insights, recommendations, and final docu
 
 🚀 Install Dependencies and rerun the notebook :
 Pandas numpy matplotlib seaborn 
+
+
+
 🔍 Key Insights & Findings
+
 Our analysis of the OmniMart dataset led to the following key insights:
+
 1. Retention is the growth engine — Customer Lifetime Value (CLV ≈ ₹14.2K) is 10× a single order, meaning retention programs are far more profitable than acquisition.
 2. Revenue is volume-driven — Electronics (₹97.4M) and Grocery (₹91.1M) dominate sales; weaker categories like Clothing and Books underperform.
 3. Churn risk is high — 27.5% of customers are at risk of leaving, posing a significant future revenue threat.
@@ -18,6 +23,7 @@ Our analysis of the OmniMart dataset led to the following key insights:
 5. Revenue concentration risk — Heavy reliance on the US market and a handful of VIP customers makes OmniMart vulnerable to shocks.
 6. Opportunities for growth — Cross-selling, geographic diversification, loyalty programs, and targeting female shoppers present major upside potential.
 For a more detailed breakdown, please refer to our full analysis in the Jupyter Notebook and the accompanying presentation.
+
 
 README.md        (This file)  
 retail_data.zip  (The raw dataset used for the challenge)  
